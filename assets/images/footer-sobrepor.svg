@@ -1,0 +1,22 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 207 654" width="300" height="948">
+	<defs>
+		<radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,617.805,-617.805,0,219.731,362.493)">
+			<stop offset=".157" stop-color="#ececec"/>
+			<stop offset=".709" stop-color="#b1b1b1"/>
+			<stop offset=".956" stop-color="#9c9b9b"/>
+		</radialGradient>
+		<radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-370.263,41.395,-41.395,-370.263,50.878,343.138)">
+			<stop offset=".157" stop-color="#ececec"/>
+			<stop offset=".709" stop-color="#b1b1b1"/>
+			<stop offset=".956" stop-color="#9c9b9b"/>
+		</radialGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<g id="&lt;Group&gt;">
+		<path id="&lt;Path&gt;" class="s0" d="m0.41 326.05h153.15c29.43 0 53.28 23.86 53.28 53.29v274.55h-153.14c-29.43 0-53.29-23.86-53.29-53.29z"/>
+		<path id="&lt;Path&gt;" class="s1" d="m0.41 328.05h153.15c29.43 0 53.28-23.85 53.28-53.28v-274.55h-153.14c-29.43 0-53.29 23.85-53.29 53.28z"/>
+	</g>
+</svg>

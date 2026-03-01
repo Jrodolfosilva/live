@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+    main {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .ctx-info {
+        order: 2;
+    }
+
+    .ctx-foto {
+        order: 1;
+    }
+
+    .ctx-form {
+        order: 3;
+    }
+
+    main img {
+        width: 100%;
+        height: auto;
+    }
+}

@@ -1,0 +1,36 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 192" width="450" height="192">
+	<defs>
+		<radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(151.5,0,0,151.5,228.798,94.038)">
+			<stop offset=".157" stop-color="#02a59b"/>
+			<stop offset=".709" stop-color="#045e9d"/>
+			<stop offset=".956" stop-color="#045e9d"/>
+		</radialGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: url(#g1);stroke-miterlimit:10;stroke-width: 2 } 
+		.s1 { fill: #d9d9d9 } 
+		.t2 { font-size: 106px;fill: #09a69c;font-family: "G Ccommune" } 
+		.t3 { font-size: 30px;text-transform: uppercase;fill: #085e9f;font-weight: 300;font-family: "Gotham" } 
+	</style>
+	<g id="SONHO">
+		<path id="&lt;Path&gt;" class="s0" d="m431.09 167.01h-375.55c-16.04 0-29.04-13-29.04-29.04v-116.9h375.55c16.04 0 29.04 13 29.04 29.04z"/>
+		<path id="&lt;Path&gt;" class="s1" d="m152.9 141.6h-152.46v-141.38h152.46z"/>
+		<path id="&lt;Path&gt;" class="s1" d="m449.33 191.11h-276.24v-48.53h276.24z"/>
+		<text id="SONHO
+" transform="translate(10.1,128.6)">
+			<tspan x="0" y="0" class="t2" dx="0 2 2 2 2 2" >SONHO
+</tspan>
+		</text>
+		<text id="VIRA ENDEREÇO
+" transform="translate(184.2,177.3)">
+			<tspan x="0" y="0" class="t3">VIRA ENDEREÇO
+</tspan>
+		</text>
+		<text id="ONDE O
+" transform="translate(10.1,32)">
+			<tspan x="0" y="0" class="t3">ONDE O
+</tspan>
+		</text>
+	</g>
+</svg>
