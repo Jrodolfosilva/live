@@ -62,4 +62,59 @@
     margin-left: -55px;
     width: 137px !important;
 }
+
+main{
+    padding-bottom: 0;
+    
+}
+.ctx-foto{
+    padding:0 12px;
+}
+
+}
+
+
+
+
+
+@media (min-width: 1440px) {
+   .ctx-foto img{
+    width:100%
+   }
+
+ 
+
+   .imagem-bg {
+    max-width: 50%!important;
+   }
+  
+
+   .ctx-info img {
+    max-width: 100%;
+    width: 429px;
+}
+.ctx-info-2 .imagem-bg {
+    margin-left: -55px;
+    width: 330px;
+}
+
+.body-form input{
+    padding: 20px;
+}
+
+.ctx-info-2{
+    gap: 50px;
+}
+
+.form{
+    padding: 60px;
+}
+
+
+
+
+
+
+
+
 }
