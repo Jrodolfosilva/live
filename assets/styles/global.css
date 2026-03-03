@@ -304,3 +304,17 @@ footer img{
 
 
 
+
+
+.redes-sociais {
+    background-color: #09A69C;
+    padding: 12px;
+    border-radius: 12px 0;
+    margin-top: 90px;
+    margin-bottom: -60px;
+}
+
+.redes-sociais a {
+    
+    font-size: 13px;
+}
